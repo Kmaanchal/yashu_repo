@@ -2,5 +2,5 @@ aanchal
 yashi
 anmol
 abcd
-1234
-vijay abcd 
+1234 
+abcd 
